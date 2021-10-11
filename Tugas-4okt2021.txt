@@ -1,0 +1,35 @@
+Nama         : Erina Binugraheni
+
+Nim          : A11.2021.13466
+
+Kelompok     : 4104
+
+Matkul       : Pemrograman berbasis web
+
+Prodi        : Teknik Informatika
+
+
+
+SELF PLACE LEARNING “Instalasi Web Server[Apache,PHP,MariaDB]”
+
+
+
+   1. Search Xammp pada google chrome
+
+
+
+
+   2. Download Xampp
+      Pada saat mendownload pilihlah versi yang terbaru yaitu yang paling bawah.
+3. Proses Install
+
+
+
+
+4. Pemasangan
+
+
+
+
+5. Akhir
+
